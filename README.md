@@ -60,5 +60,3 @@
 - 📖 Постоянно изучаю техническую литературу и профильные курсы.
 - 🎯 Цель: Стать экспертом в области обеспечения качества и автоматизации.
 
-### Статистика GitHub 📊
-![Статистика L-Stanislav-QA](https://github-readme-stats.vercel.app/api?username=L-Stanislav-QA&show_icons=true&theme=dark)
