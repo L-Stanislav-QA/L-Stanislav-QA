@@ -19,7 +19,6 @@ ___
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40px"/><br/>Postman</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40px"/><br/>Rest</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachekafka.svg" width="40px"/><br/>Kafka</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=swagger" width="40px"/><br/>Swagger</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40px"/><br/>Docker</td>
   </tr>
@@ -47,7 +46,7 @@ ___
   </tr>
 </table>
 
-### Логи и мониторинг
+### Логи и мониторинг (изучаю в данынй момент)
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elasticstack.svg" width="40px"/><br/>Kibana</td>
